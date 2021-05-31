@@ -9,3 +9,5 @@ there
 I love Python - AB
 
 Full Stack Developer - AB
+
+Chemsitry - AB
